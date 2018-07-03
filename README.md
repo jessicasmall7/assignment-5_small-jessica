@@ -1,11 +1,11 @@
 ## GitHub
-(Click Here To View)[https://github.com/jessicasmall7/assignment-5_small-jessica]
+[Click Here To View](https://github.com/jessicasmall7/assignment-5_small-jessica)
 
 
 ## Resources
-1. (Mozilla)[https://developer.mozilla.org/en-US/docs/Web/Events]- Read about the different types of events.
+1. [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Events)- Read about the different types of events.
 
-2. (W3Schools)[https://www.w3schools.com/jsref/jsref_statements.asp]- Tried to understand the statements, but am still feeling lost. Especially without the recorded Adobe Connect lecture for reference.
+2. [W3Schools](https://www.w3schools.com/jsref/jsref_statements.asp)- Tried to understand the statements, but am still feeling lost. Especially without the recorded Adobe Connect lecture for reference.
 
 
 ## Deductions
