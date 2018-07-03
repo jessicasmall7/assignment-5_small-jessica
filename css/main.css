@@ -1,0 +1,28 @@
+.body {
+  background-color: #00BFFF;
+  padding: 5%;
+}
+
+.circle {
+  height: 50px;
+  width: 50px;
+  background-color: black;
+  border-radius: 50%;
+}
+
+h1{
+  color: white;
+  font-size: 32px;
+}
+
+h2{
+  font-size: 22px;
+}
+
+p{
+  font-size: 12px;
+}
+
+h3{
+  font-size: 18px;
+}
